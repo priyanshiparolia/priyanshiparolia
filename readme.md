@@ -1,6 +1,6 @@
 ### Connect with me on my Social Handles
 
-<a href="www.linkedin.com/in/priyanshi-gupta-23301">
+<a href="https://www.linkedin.com/in/priyanshi-gupta-23301/">
     <img align="left" alt="Priyanshi gupta | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
    <a href="https://twitter.com/selfcares321">
