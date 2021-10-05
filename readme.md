@@ -1,3 +1,24 @@
+<h1 align="center">Hi there <img height="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> , I'm Priyanshi Gupta</h1>
+<h3 align="center">A computer science student from India</h3>
+
+<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+
+<h3 align="left">👩🏻‍💻 About Me :</h3>
+
+- A 2nd year B.Tech CSE student.
+- I’m currently exploring tech world. 👀 
+- Trying to be an Active contributor in _Open Source Projects_.
+- 📧 Reach me via **priyanshiparolia23301@gmail.com**
+- 
+
+## ✏️Techstack I'm familiar with: 
+
+C | C++ | HTML | CSS | 
+--|-----|------|-----|
+
+
+
+
 ### Connect with me on my Social Handles
 
 <a href="https://www.linkedin.com/in/priyanshi-gupta-23301/">
@@ -13,3 +34,12 @@
 <br>
 <br>
 <br>
+
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=priyanshiparolia"
+    alt="priyanshiparolia"
+  />
+</p>
+
