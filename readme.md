@@ -43,3 +43,9 @@ C | C++ | HTML | CSS |
   />
 </p>
 
+<a href=https://github.com/girlscript/winter-of-contributing>
+   <img src=https://img.shields.io/badge/GirlscriptWinterOfContributing-Contributor-mazenta>
+</a>
+
+
+
