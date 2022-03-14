@@ -13,8 +13,8 @@
 
 ## ✏️Techstack I'm familiar with: 
 
-C | C++ | HTML | CSS | 
---|-----|------|-----|
+C | C++ | HTML | CSS | Dart |  
+--|-----|------|-----| ---- | 
 
 
 
