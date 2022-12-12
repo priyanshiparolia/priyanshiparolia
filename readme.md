@@ -5,7 +5,7 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
-- A 2nd year B.Tech CSE student.
+- A 3rd year B.Tech CSE student.
 - I’m currently exploring tech world. 👀 
 - Trying to be an Active contributor in _Open Source Projects_.
 - 📧 Reach me via **priyanshiparolia23301@gmail.com**
@@ -13,8 +13,8 @@
 
 ## ✏️Techstack I'm familiar with: 
 
-C | C++ | HTML | CSS | Dart |  
---|-----|------|-----| ---- | 
+C | C++ | HTML | CSS | Dart | Java | SQL |
+--|-----|------|-----| ---- | ---- | --- |
 
 
 
